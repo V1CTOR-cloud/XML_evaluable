@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<canciones>
+    <cancion id="1">
+        <titulo>Un beso y una flor</titulo>
+        <artista>Nino Bravo</artista>
+        <anyo>1972</anyo>
+        <formato>MP3</formato>
+    </cancion>
+
+    <cancion id="2">
+        <titulo>Highway to hell</titulo>
+        <artista>ACDC</artista>
+        <anyo>1972</anyo>
+        <formato>MP3</formato>
+    </cancion>
+    
+    <cancion id="3">
+        <titulo>Losing my religion</titulo>
+        <artista>R.E.M</artista>
+        <anyo>1991</anyo>
+        <formato>WAV</formato>
+    </cancion>
+</canciones>
+    
