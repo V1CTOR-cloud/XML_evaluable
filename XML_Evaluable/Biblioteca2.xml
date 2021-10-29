@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Biblioteca>
+    <Llibre id="1">
+        <titulo>Un beso y una flor</titulo>
+        <autor>Nino Bravo</autor>
+        <anyo_publicacion>1972</anyo_publicacion>
+        <editorial>MP3</editorial>
+        <paginas>200</paginas>
+    </Llibre>
+    <Llibre id="2">
+        <titulo>Highway to hell</titulo>
+        <autor>ACDC</autor>
+        <anyo_publicacion>1972</anyo_publicacion>
+        <editorial>MP3</editorial>
+        <paginas>400</paginas>
+    </Llibre>
+    <Llibre id="3">
+        <titulo>Losing my religion</titulo>
+        <autor>R.E.M</autor>
+        <anyo_publicacion>1991</anyo_publicacion>
+        <editorial>WAV</editorial>
+        <paginas>1100</paginas>
+    </Llibre>
+    <Llibre id="4">
+        <titulo>victor bio</titulo>
+        <autor>victor</autor>
+        <anyo_publicacion>2020</anyo_publicacion>
+        <editorial>anaya</editorial>
+        <paginas>2000</paginas>
+    </Llibre>
+    <Llibre id="5">
+        <titulo>victor new pdf</titulo>
+        <autor>victor mayor</autor>
+        <anyo_publicacion>2030</anyo_publicacion>
+        <editorial>anaya 2.0</editorial>
+        <paginas>3000</paginas>
+    </Llibre>
+</Biblioteca>
